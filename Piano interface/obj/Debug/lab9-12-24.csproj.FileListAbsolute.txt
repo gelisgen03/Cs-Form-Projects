@@ -1,0 +1,10 @@
+C:\Users\bilmuh\source\repos\lab9-12-24\bin\Debug\lab9-12-24.exe.config
+C:\Users\bilmuh\source\repos\lab9-12-24\bin\Debug\lab9-12-24.exe
+C:\Users\bilmuh\source\repos\lab9-12-24\bin\Debug\lab9-12-24.pdb
+C:\Users\bilmuh\source\repos\lab9-12-24\obj\Debug\lab9-12-24.csproj.AssemblyReference.cache
+C:\Users\bilmuh\source\repos\lab9-12-24\obj\Debug\lab9_12_24.Properties.Resources.resources
+C:\Users\bilmuh\source\repos\lab9-12-24\obj\Debug\lab9-12-24.csproj.GenerateResource.cache
+C:\Users\bilmuh\source\repos\lab9-12-24\obj\Debug\lab9-12-24.csproj.CoreCompileInputs.cache
+C:\Users\bilmuh\source\repos\lab9-12-24\obj\Debug\lab9-12-24.exe
+C:\Users\bilmuh\source\repos\lab9-12-24\obj\Debug\lab9-12-24.pdb
+C:\Users\bilmuh\source\repos\lab9-12-24\obj\Debug\lab9_12_24.Form1.resources
