@@ -1,0 +1,10 @@
+C:\Users\bilmuh\source\repos\23-12-2024-Lab\bin\Debug\23-12-2024-Lab.exe.config
+C:\Users\bilmuh\source\repos\23-12-2024-Lab\bin\Debug\23-12-2024-Lab.exe
+C:\Users\bilmuh\source\repos\23-12-2024-Lab\bin\Debug\23-12-2024-Lab.pdb
+C:\Users\bilmuh\source\repos\23-12-2024-Lab\obj\Debug\23-12-2024-Lab.csproj.AssemblyReference.cache
+C:\Users\bilmuh\source\repos\23-12-2024-Lab\obj\Debug\_23_12_2024_Lab.Form1.resources
+C:\Users\bilmuh\source\repos\23-12-2024-Lab\obj\Debug\_23_12_2024_Lab.Properties.Resources.resources
+C:\Users\bilmuh\source\repos\23-12-2024-Lab\obj\Debug\23-12-2024-Lab.csproj.GenerateResource.cache
+C:\Users\bilmuh\source\repos\23-12-2024-Lab\obj\Debug\23-12-2024-Lab.csproj.CoreCompileInputs.cache
+C:\Users\bilmuh\source\repos\23-12-2024-Lab\obj\Debug\23-12-2024-Lab.exe
+C:\Users\bilmuh\source\repos\23-12-2024-Lab\obj\Debug\23-12-2024-Lab.pdb
